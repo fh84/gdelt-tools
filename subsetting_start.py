@@ -7,7 +7,7 @@
 
 from IPython.core.display import HTML
 styles = open("Style.css").read()
-HTML(styles
+HTML(styles)
 
 
 
